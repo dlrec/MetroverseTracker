@@ -1,3 +1,13 @@
-rarible_listings.ipynb
-token.txt
-autoCommit.py
+# rarible_listings.ipynb
+# token.txt
+# autoCommit.py
+# nftNerds.py
+
+# ignore everything
+*
+
+# except the csv's i want to upload
+!Metroverse_listings.csv
+!Metroverse_listings_nftNerds.csv
+!MetroverseCityBlock_rarity.csv
+!MetroverseCityBlock.csv
